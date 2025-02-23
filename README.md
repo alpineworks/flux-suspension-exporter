@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src=".github/images/flux-suspension-exporter.png" alt="Kotel" width="500">
+  <img src=".github/images/flux-suspension-exporter.png" alt="Flux Suspension Exporter" width="500">
 </h1>
 <h2 align="center">
     `flux-suspension-exporter` provides a prometheus exporter that details the flux kustomizations that are currently suspended
